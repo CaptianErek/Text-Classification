@@ -1,4 +1,3 @@
-# Text-Classification
 # Smart Text Classification Pipeline with Transformers
 
 ## Overview
@@ -58,15 +57,3 @@ pip install transformers datasets torch matplotlib numpy
 - You can easily extend this notebook by adding training logic using PyTorch or Hugging Face’s `Trainer` API.
 
 ---
-
-## Suggested Repository Name
-
-You could name your repository something that reflects both utility and clarity:
-
-- `transformers-text-pipeline`
-- `smart-nlp-preprocessor`
-- `huggingface-tokenization-starter`
-- `bert-classification-pipeline`
-- `textprep-transformers`
-
-Let me know if you'd like to add sections like saving models, exporting tokenized datasets, or integrating training loops.
